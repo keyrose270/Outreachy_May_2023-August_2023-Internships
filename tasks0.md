@@ -4,25 +4,8 @@ It is essential for us to identify several hospitals for our system. In this tas
 
 |  Hospitals |   Locations |    |Services    |   Site Link   |
 |---    |:-:    |:-:    |:-:    |--:    |
-| MD Anderson Cancer Center | Houston, TXUnited States | *Surgery, Breast reconstruction
-*Laser interstitial thermal therapy
-*Mininally invasive surgery
-*Immunotherapy
-*Cart cell therapy
-*Immune checkpoint inhibitors
-*Radiation therapy
-*Brachytherapy
-*Stereotactic body radiationtherapy
-*Proton therapy
-*Ontervention oncology
-*Ablation therapy
-*High-intensity focused ultrasound
-*Chemotherapy
-*Angiogenesis inhibitors
-*Hyperthermic intraperitoneal chemotherapy
-*Targeted therapy
-*Comple,entary & intrative medecine
-*Palliative care | [links](https://www.mdanderson.org/) |
+| MD Anderson Cancer Center | Houston, TXUnited States | *SurgeryBreast reconstruction*Laserinterstitialhermaltherapy*Mininallyinvasiv surgery
+*Immunotherapy*Cart cell therapy*Immune checkpoint inhibitors*Radiation therapy*Brachytherapy*Stereotactic body radiationtherapy*Proton therapy*Ontervention oncology*Ablation therapy*High-intensity focused ultrasound*Chemotherapy*Angiogenesiinhibitors*Hyperthermicintraperitoneal chemotherapy*Targeted therapy*Comple,entary & intrative medecine*Palliative care | [links](https://www.mdanderson.org/) |
 | Memorial Sloan Kettering Cancer Center | New York, NYUnited States | *Radiation therapy
 *Chemotherapy
 *Immunotherapy
