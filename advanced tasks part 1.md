@@ -9,4 +9,4 @@ This name because several companies will be grouped in our application to help p
 
 ### LOGO
 
-![GLOBALLINKMEDICAL](LOGO.jpg"LOGO")
+![GLOBALLINKMEDICAL](C:\Users\GLC\Desktop\mboalab\Mboalab_outreachy\KEY_NKOT_ROSE_SIDONIE\Logo.jpg)
