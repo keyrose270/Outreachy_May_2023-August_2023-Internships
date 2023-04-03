@@ -2,11 +2,11 @@
 
 It is essential for us to identify several hospitals for our system. In this task it was a question for us of **listing 50 international hospitals active, their website, the services they offer, the countries and cities where they are located**. We identified by filtering the information. Why do we need to list his hospitals? This will allow us to filter the information and also have an idea of ​​each medical center and the overall number of its hospitals will allow us to better implement our application.
 
-|  Hospitals |   Locations |    |Services    |   Site Link   |
-|---    |:-:    |:-:    |:-:    |--:    |
+|  Hospitals |  Locations |  Services  |  Site Link   |
+|---    |--------   |-----------------   |------   |
 | MD Anderson Cancer Center | Houston, TXUnited States | *SurgeryBreast reconstruction*Laserinterstitialhermaltherapy*Mininallyinvasiv surgery
 *Immunotherapy*Cart cell therapy*Immune checkpoint inhibitors*Radiation therapy*Brachytherapy*Stereotactic body radiationtherapy*Proton therapy*Ontervention oncology*Ablation therapy*High-intensity focused ultrasound*Chemotherapy*Angiogenesiinhibitors*Hyperthermicintraperitoneal chemotherapy*Targeted therapy*Comple,entary & intrative medecine*Palliative care | [links](https://www.mdanderson.org/) |
-| Memorial Sloan Kettering Cancer Center | New York, NYUnited States | *Radiation therapy
+| Memorial Sloan Kettering Cancer Center | New York, NYUnited States |*Radiation therapy
 *Chemotherapy
 *Immunotherapy
 *Precision medecine
@@ -19,7 +19,7 @@ It is essential for us to identify several hospitals for our system. In this tas
 *Surgery
 *Interventional radiology andreconstructive  surgery
 | [links](https://www.gustaveroussy.fr/) |
-| Dana-Farber Cancer Institute | Boston, MA United States | *Oncology*surgery *Pediatry | [links](https://www.dana-farber.org/) |
+| Dana-Farber Cancer Institute | Boston, MA United States |*Oncology*surgery*Pediatry | [links](https://www.dana-farber.org/) |
 | Mayo Clinic - Rochester | Rochester, MN United States | *Psychiatry
 *Alcohol addiction treatment
 *Oncology
@@ -52,7 +52,7 @@ It is essential for us to identify several hospitals for our system. In this tas
 *Reconstructive urology
 *Testicular cancer treatment
 *Upper tract urothelial carcinoma treatment | [links](https://www.hopkinsmedicine.org/) |
-| The Princess Margaret Cancer Center | Toronto,Canada | *Chemotherapy
+| The Princess Margaret Cancer Center | Toronto,Canada |*Chemotherapy
 *Radiation therapy
 *Oncology
 *Hepatobiliary oncology
@@ -70,7 +70,7 @@ It is essential for us to identify several hospitals for our system. In this tas
 *Specialist nurse
 *Radioisotope therapy
 *surgery | [links](https://www.royalmarsden.nhs.uk/) |
-| IEO - Istituto Europeo di Oncologia | Milan,Italy | *Oncology
+| IEO - Istituto Europeo di Oncologia | Milan,Italy |*Oncology
 *Surgery
 *Cardiology | [links](https://www.ieo.it/) |
 
