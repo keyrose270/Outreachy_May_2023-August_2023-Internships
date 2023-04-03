@@ -9,4 +9,4 @@ This name because several companies will be grouped in our application to help p
 
 # LOGO
 
-![MBOALAB](Logo.JPG)
+![MBOALAB](Logo.jpg)
